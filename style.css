@@ -44,11 +44,27 @@ body {
 
 .about-section {
     display: flex;
-    padding: 5%;
+    padding: 60px 80px 0 80px;
+    background-image: url(eat-healthy-main/images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    justify-content: center;
+    align-items: center;
 }
 
-.half-width .girl {
-    width: 40%;
+.single-width {
+    width: 50%;
+    height: auto;
+}
+
+.single-width img {
+    width: 53%;
+
+}
+
+#second-image-div {
+    text-align: center;
+    margin: 0 auto;
 }
 
 #about-paragraph {
