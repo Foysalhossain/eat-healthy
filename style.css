@@ -41,3 +41,16 @@ body {
     border-radius: 50px;
     font-size: 16px;
 }
+
+.about-section {
+    display: flex;
+    padding: 5%;
+}
+
+.half-width .girl {
+    width: 40%;
+}
+
+#about-paragraph {
+    margin-bottom: 70px;
+}
